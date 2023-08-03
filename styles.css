@@ -4,7 +4,7 @@
 }
 
 body {
-    background-color: black;
+    background-color: bisque
 }
 
 h1
@@ -13,14 +13,13 @@ h1
     margin-top: 50px;
     margin-bottom: 5px;
     font-size: 40px;
-    color: white;
 }
 
 .popola{
-    color: white;
+    color: black;
 }
 
-.Popol{
+.Port{
     font-size: 20px;
 }
 
@@ -29,7 +28,7 @@ h1
     text-align: center;
     margin-top: 5px;
     margin-bottom: 50px;
-    color: white;
+    color: black;
 }
 
 .outer {
@@ -65,7 +64,7 @@ h1
     text-decoration: none;
     vertical-align: middle;
     font-size: 20px;
-    color: white;
+    color: black;
 }
 
 .youtlinka 
