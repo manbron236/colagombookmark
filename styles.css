@@ -16,11 +16,14 @@ h1
 }
 
 .popola{
-    text-decoration: none;
     color: black;
 }
 
-h5
+.Popol{
+    font-size: 20px;
+}
+
+.nblog
 {
     text-align: center;
     margin-top: 5px;
