@@ -11,6 +11,19 @@ h1
 {
     text-align: center;
     margin-top: 50px;
+    margin-bottom: 5px;
+    font-size: 40px;
+}
+
+.popola{
+    text-decoration: none;
+    color: black;
+}
+
+h5
+{
+    text-align: center;
+    margin-top: 5px;
     margin-bottom: 50px;
 }
 
@@ -34,20 +47,18 @@ h1
 
 .youtlink {
     text-align: center;
-    width: 350px;
-    height: 250px;
+    width: 480px;
+    height: 270px;
     background-color: white;
     margin: 0 auto;
-    border: 1px solid black;
-    border-radius: 20px;
+    margin-bottom: 25px;
 }
 
 .bloglinka
 {
     text-decoration: none;
-    line-height: 250px;
     vertical-align: middle;
-    font-size: 25px;
+    font-size: 20px;
     color: black;
 }
 
@@ -58,4 +69,11 @@ h1
     vertical-align: middle;
     font-size: 25px;
     color: black;
+}
+
+img {
+    width: 480px;
+    height: 270px;
+    display: block;
+    margin: 0 auto;
 }
